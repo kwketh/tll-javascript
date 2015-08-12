@@ -1,6 +1,6 @@
 [submodule "submodules/oni-js"]
-	path = submodules/oni-js
+	path = public/oni-js
 	url = git@github.com:kwketh/oni-js.git
 [submodule "submodules/schema-js"]
-	path = submodules/schema-js
+	path = public/schema-js
 	url = git@github.com:kwketh/schema-js.git
