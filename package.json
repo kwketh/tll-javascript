@@ -1,0 +1,14 @@
+{
+  "name": "tll-javascript",
+  "version": "0.1.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kwketh/tll-javascript.git"
+  },  
+  "author": "Konrad Wieczorek <keth@kwketh.com>",
+  "description": "A JavaScript stack for all TLL web-tools.",
+  "dependencies": {
+    "closurecompiler": "1.5.2"
+  }
+}
