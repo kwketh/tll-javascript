@@ -1,6 +1,8 @@
 [submodule "submodules/oni-js"]
 	path = public/submodules/oni-js
 	url = git@oni-js.github.com:kwketh/oni-js.git
+    branch = master
 [submodule "submodules/schema-js"]
 	path = public/submodules/schema-js
 	url = git@schema-js.github.com:kwketh/schema-js.git
+    branch = master
