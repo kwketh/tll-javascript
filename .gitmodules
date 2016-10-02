@@ -9,3 +9,4 @@
 [submodule "public/submodules/psd-js"]
 	path = public/submodules/psd-js
 	url = git@psd-js.github.com:kwketh/psd-js.git
+	branch = master
